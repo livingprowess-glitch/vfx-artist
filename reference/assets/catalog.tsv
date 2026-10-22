@@ -1,0 +1,682 @@
+asset_id	name	kind	uses	flipbook_layout	flipbook_mode	flipbook_fps	typical_light_emission	mesh_native_size	seen_in	original_names
+12991508490	beam_black_rift_outline	Beam	7						Down,StarStruck,Up	Beam Slash 1
+100013157062966	beam_braided_swirl_ribbons	Beam	8						spin 	4
+98803326148313	beam_dark_star_flare	Beam	3						lightning stuff/AwaLightning	b1
+18638131263	beam_electric_burst_blot	Beam	3						lightning stuff/AwaLightning	b4
+11508013518	beam_electric_cell_web	Beam	3						lightning stuff/AwaLightning	b7
+85772363699785	beam_energy_ribbon_zigzag	Beam	10						Dash,ShapeAndValue2	Beam100
+18470709110	beam_faint_streak_smoke	Beam	24						spin 	BeamFilled fog 2
+119058761936819	beam_fire_flicker_orange	Beam	2						ShapeAndValue2	Beam132
+13821091893	beam_ink_splat_torn	Beam	7						Down,StarStruck,Up	Beam Slash 2
+92886533174322	beam_lightning_bolt_cluster	Beam	3						lightning stuff/AwaLightning	b2
+72969225620485	beam_lightning_bolt_thick	Beam	8						ShapeAndValuePractice	Beam116
+101641525137577	beam_lightning_scratch_bundle	Beam	3						lightning stuff/AwaLightning	b5
+117078217139317	beam_lightning_spark_tips	Beam	3						lightning stuff/AwaLightning	b3
+13291866458	beam_lightning_squiggle_thin	Beam	3						lightning stuff/AwaLightning	b6
+12781855094	beam_lightning_thin_crack	Beam	10						StarStruck	BeamSlight shards
+131025768925255	beam_ornate_braid_pattern	Beam	8						spin 	4d
+124753331461910	beam_soft_curl_wisp	Beam	4						StarStruck	Beam | Beam84
+92479326699673	beam_soft_glow_column	Beam	4						StarStruck	Beam
+18762827354	beam_spiked_smoke_wide	Beam	4						ShapeAndValue2	BeamWide Spiked smoke
+18925205019	beam_turbulent_smoke	Beam	32						ShapeAndValuePractice	BeamFilled wavey
+137097904100100	beam_wispy_smoke_flame	Beam	8						Dash	Beam112
+130540857336778	decal_UNAVAILABLE_placeholder	Decal	2						lightning stuff/AwaLightning	UNAVAILABLE (thumbnail is the placeholder; verify before use) | End | Start
+12717455084	decal_cartoon_eyes_dots	Decal	1						Effects/Eye Of Rah	Part1
+76382905945669	decal_cartoon_smile_mouth	Decal	1						Effects/Eye Of Rah	Eye Of Rah
+15190416756	decal_crescent_fragment_ring	Decal	6						arrow	End | Start
+108886089477305	decal_crescent_spiral_ring	Decal	2						ShapeAndValue2	End | Start
+128598236397646	decal_crescent_splash_thick	Decal	2						lightning stuff/AwaLightning	End | Start
+96308200076185	decal_electric_crack_shards	Decal	1						lightning stuff/AwaLightning	Decal
+96982455831669	decal_electric_crack_shards_b	Decal	1						lightning stuff/AwaLightning	Decal
+136392292345741	decal_electric_vein_blob	Decal	1						lightning stuff/AwaLightning	Decal
+77889761496173	decal_electric_vein_blob_b	Decal	1						lightning stuff/AwaLightning	Decal
+109659780754388	decal_electric_vein_network	Decal	1						lightning stuff/AwaLightning	Decal
+137681360542823	decal_electric_vein_network_b	Decal	1						lightning stuff/AwaLightning	Decal
+73520815266429	decal_electric_vein_network_c	Decal	1						lightning stuff/AwaLightning	Decal
+74821262647501	decal_electric_vein_network_d	Decal	1						lightning stuff/AwaLightning	Decal
+108908549626745	decal_electric_vein_network_thin	Decal	1						lightning stuff/AwaLightning	Decal
+71265739500751	decal_electric_vein_star	Decal	1						lightning stuff/AwaLightning	Decal
+84938636872942	decal_faint_swirl_ring	Decal	10						StarStruck	End | Start
+110360306298783	decal_lightning_arc_cluster	Decal	1						lightning stuff/AwaLightning	Decal
+119012955491681	decal_lightning_arc_cluster_b	Decal	1						lightning stuff/AwaLightning	Decal
+70712400328384	decal_lightning_arc_cluster_c	Decal	1						lightning stuff/AwaLightning	Decal
+88162638443860	decal_lightning_arc_cluster_d	Decal	1						lightning stuff/AwaLightning	Decal
+91436426831231	decal_lightning_arc_cluster_e	Decal	1						lightning stuff/AwaLightning	Decal
+121328944713174	decal_lightning_arc_cluster_faint	Decal	1						lightning stuff/AwaLightning	Decal
+98476636473632	decal_lightning_arc_faint	Decal	1						lightning stuff/AwaLightning	Decal
+10395250849	decal_lightning_burst_bright	Decal	1						lightning stuff/Lightning Drop	DecalMesh flipbook frame
+74976104206803	decal_lightning_curl_bolt	Decal	1						lightning stuff/AwaLightning	Decal
+77441330209826	decal_lightning_curl_bolt_b	Decal	1						lightning stuff/AwaLightning	Decal
+80388208890497	decal_lightning_curl_bolt_c	Decal	1						lightning stuff/AwaLightning	Decal
+86531588355555	decal_lightning_curl_bolt_d	Decal	1						lightning stuff/AwaLightning	Decal
+98674231592756	decal_lightning_curl_bolt_e	Decal	1						lightning stuff/AwaLightning	Decal
+111627697152372	decal_lightning_curl_small	Decal	1						lightning stuff/AwaLightning	Decal
+128803343907824	decal_lightning_curl_small_b	Decal	1						lightning stuff/AwaLightning	Decal
+125836324965408	decal_lightning_curl_tiny	Decal	1						lightning stuff/AwaLightning	Decal
+117453000589965	decal_lightning_flame_blob_big	Decal	1						lightning stuff/AwaLightning	Decal
+130999280565747	decal_lightning_flame_blob_c	Decal	1						lightning stuff/AwaLightning	Decal
+113488821659697	decal_lightning_flame_blob_cluster	Decal	1						lightning stuff/AwaLightning	Decal
+120339128558599	decal_lightning_flame_blob_cluster_b	Decal	1						lightning stuff/AwaLightning	Decal
+74500741983554	decal_lightning_flame_blob_d	Decal	1						lightning stuff/AwaLightning	Decal
+81424392759058	decal_lightning_flame_blob_e	Decal	1						lightning stuff/AwaLightning	Decal
+82249358744079	decal_lightning_flame_blob_f	Decal	1						lightning stuff/AwaLightning	Decal
+83019423224083	decal_lightning_flame_blob_g	Decal	1						lightning stuff/AwaLightning	Decal
+107470422516797	decal_lightning_flecks_faint	Decal	1						lightning stuff/AwaLightning	Decal
+122749780473262	decal_lightning_flecks_faint_b	Decal	1						lightning stuff/AwaLightning	Decal
+72540809870750	decal_lightning_flecks_faint_c	Decal	1						lightning stuff/AwaLightning	Decal
+92136719271966	decal_lightning_flecks_faint_d	Decal	1						lightning stuff/AwaLightning	Decal
+111649823207012	decal_lightning_fork_bolt	Decal	1						lightning stuff/AwaLightning	Decal
+111663937320585	decal_lightning_fork_bolt_b	Decal	1						lightning stuff/AwaLightning	Decal
+120270594348847	decal_lightning_fork_bolt_c	Decal	1						lightning stuff/AwaLightning	Decal
+79901694228987	decal_lightning_fork_bolt_d	Decal	1						lightning stuff/AwaLightning	Decal
+87057398260009	decal_lightning_fork_bolt_e	Decal	1						lightning stuff/AwaLightning	Decal
+102989294321374	decal_lightning_spark_faint	Decal	1						lightning stuff/AwaLightning	Decal
+81074786662104	decal_lightning_spike_small	Decal	1						lightning stuff/AwaLightning	Decal
+12363668639	decal_radial_fan_soft	Decal	1						lightning stuff/Lightning Drop	DecalMesh flipbook frame
+15846281508	decal_radial_rays_faint	Decal	1						lightning stuff/Lightning Drop	DecalMesh flipbook frame
+13877773941	decal_radial_rays_soft	Decal	1						lightning stuff/Lightning Drop	DecalMesh flipbook frame
+16892247104	decal_radial_spark_ring	Decal	1						lightning stuff/Lightning Drop	DecalMesh flipbook frame
+14101024770	decal_soft_flower_ring	Decal	6						arrow	End | Start
+74266965397559	decal_soft_ring_glow	Decal	10						StarStruck	End | Start
+88397700585400	decal_soft_ring_wisp	Decal	2						lightning stuff/AwaLightning	End | Start
+9581481497	decal_spike_burst_sharp	Decal	20						StarStruck	End | Start
+14277319792	decal_spiky_radial_burst	Decal	5						ShapeAndValue2,VFX1,VFX2	End | RenderTemplate | Start
+9622368924	decal_spiky_radial_soft	Decal	2						arrow	End | Start
+10423614733	decal_spiral_vortex_tight	Decal	8						ShapeAndValuePractice	End | Start
+9572542664	decal_starburst_spikes	Decal	6						Dash,arrow	End | Start
+15249897265	decal_swirl_blades_ring	Decal	4						Startup	End | Start
+10357952493	decal_swirl_vortex_rings	Decal	2						lightning stuff/AwaLightning	End | Start
+18280512172	decal_thin_ring	Decal	2						ShapeAndValue2	End | Start
+88983666349740	decal_torn_ink_ring_thick	Decal	28						arrow	End | Start
+13530571563	decal_vertical_streaks	Decal	10						StarStruck	End | Start
+14261953171	decal_vortex_swirl_soft	Decal	6						arrow	End | Start
+4764912210	image_moon_vignette	Image	1						Effects/Effects	Moon_Vignette
+136867373491158	mesh_bowl_shallow	Mesh	10					10.83x3.87x10.85	StarStruck	End | Start
+103992871225921	mesh_cone_frustum_open	Mesh	10					200.00x200.00x200.00	StarStruck	End | Start
+903888897	mesh_crown_crater_ring	Mesh	2					229.48x42.70x286.00	lightning stuff/Lightning Drop	End | Start
+119075613348711	mesh_crumpled_cylinder_wrap	Mesh	1					50.00x32.50x49.45	VFX2	RenderTemplate
+71849885439764	mesh_crumpled_shell_cracked	Mesh	2					3.43x3.04x3.16	MeshFlipSUCCESS	End | Start
+137685697016553	mesh_cylinder_tall	Mesh	2					200.00x575.10x200.00	MeshFlipSUCCESS	End | Start
+106381405601872	mesh_cylinder_twisted_column	Mesh	2					313.95x871.52x313.95	MeshFlipSUCCESS	End | Start
+8501563708	mesh_dome_shell_heightX	Mesh	83					37.79x50.00x50.00	Dash,ShapeAndValue2,StarStruck,Startup,VFX1,VFX2,arrow	End | RenderTemplate | Start
+127337314726509	mesh_egg_dome_smooth	Mesh	2					196.16x100.00x196.16	lightning stuff/AwaLightning	End | Start
+117825344749393	mesh_flared_bowl_twisted	Mesh	1					49.87x19.25x50.00	VFX1	RenderTemplate
+7423457269	mesh_flat_cone_disc	Mesh	2					7.59x2.20x7.59	ShapeAndValue2	End | Start
+125349505454888	mesh_funnel_bowl_deep	Mesh	2					15.10x10.00x15.10	Startup	End | Start
+4316118084	mesh_ground_spike_crown_wide	Mesh	2					50.00x23.24x50.00	lightning stuff/Lightning Drop	End | Start
+117547468732069	mesh_ground_tiles_debris	Mesh	34					1.41x0.50x1.07	spin 	End | Start
+122638957149603	mesh_hemisphere_dome	Mesh	10					200.00x100.00x200.00	StarStruck	End | Start
+8089863097	mesh_hoop_vertical_ellipse	Mesh	4					0.05x2.45x2.45	VFX1,VFX2	RenderTemplate | wind
+18434669670	mesh_hoop_vertical_thinX	Mesh	2					0.27x2.00x2.00	Dash	End | Start
+9729834399	mesh_lens_disc_flat	Mesh	4					50.00x8.84x50.00	ShapeAndValuePractice	End | Start
+7183193418	mesh_lightning_strands_tall	Mesh	2					1266.66x1832.84x1312.96	lightning stuff/AwaLightning	End | Start
+5694662480	mesh_line_streak_thin	Mesh	2					7.32x0.73x0.67	lightning stuff/Lightning Drop	End | Start
+12070899434	mesh_open_band_ring_low	Mesh	4					2.41x0.38x2.41	VFX1,VFX2	RenderTemplate | redmesh2
+113793875136271	mesh_ribbon_rings_layered	Mesh	2					2.46x0.46x2.45	spin 	End | Start
+5139788115	mesh_rock_spike_cluster	Mesh	4					16.49x14.49x15.15	lightning stuff/Lightning Drop	End | Start
+11121744036	mesh_scary_face_relief	Mesh	1					0.89x0.81x0.21	Effects/Characters	scaryface
+95063569401865	mesh_short_band_wall	Mesh	20					50.00x5.87x50.00	StarStruck	End | Start
+137603874842453	mesh_sphere	Mesh	4					200.00x200.00x200.00	MeshFlipSUCCESS	End | Start
+81705790953891	mesh_sphere_faceted_cut	Mesh	10					10.58x10.58x10.71	lightning stuff/Lightning Drop	End | Start
+6572843980	mesh_sphere_smooth_b	Mesh	1					50.00x50.00x50.00	Effects/Parts	BallDebug
+14656986703	mesh_spike_burst_side_heightX	Mesh	2					9.50x28.98x28.16	lightning stuff/AwaLightning	End | Start
+1033714	mesh_spike_cone_drill	Mesh	1					2.01x0.75x2.01	Effects/Eye Of Rah	Part2
+102470267627424	mesh_spike_crown	Mesh	2					2.50x2.50x2.36	MeshFlipSUCCESS	End | Start
+5707917123	mesh_spike_fan_burst	Mesh	2					7.41x4.35x6.51	lightning stuff/AwaLightning	End | Start
+643098245	mesh_spiked_ring_shockwave_flat	Mesh	1					257.38x28.55x257.38	Effects/Characters	Shockwave
+7211026250	mesh_swirl_ribbon_spread	Mesh	2					11.13x8.67x11.34	VFX1	BrightFrontWind | RenderTemplate
+113725566783994	mesh_swirl_ribbon_wisp_c	Mesh	2					2.87x1.85x3.10	lightning stuff/AwaLightning	End | Start
+74181482131152	mesh_swirl_ribbons_broken	Mesh	10					48.80x41.68x50.00	StarStruck	End | Start
+76812637992657	mesh_swirl_ring_torn_fan	Mesh	2					50.00x33.98x47.16	Dash	End | Start
+7472102456	mesh_thin_flat_ring	Mesh	2					2.00x0.06x2.00	Dash	End | Start
+5518998253	mesh_thin_ring_faint_wide	Mesh	2					49.18x8.03x50.00	lightning stuff/Lightning Drop	End | Start
+6026279643	mesh_thin_ring_flat_b	Mesh	2					1.01x0.10x1.03	lightning stuff/Lightning Drop	End | Start
+5922911630	mesh_thin_wavy_ring_faint	Mesh	30					6.59x0.98x6.32	StarStruck	End | Start
+129778117978668	mesh_torn_swirl_ring	Mesh	2					2.41x0.56x2.48	MeshFlipSUCCESS	End | Start
+6351288405	mesh_torn_wind_ring_shards	Mesh	10					18.99x5.14x20.99	ShapeAndValuePractice,Startup	End | Start
+7722530552	mesh_torus_flat	Mesh	2					1.95x0.26x1.95	ShapeAndValue2	End | Start
+128408217404396	mesh_twisted_blob_vortex	Mesh	2					48.48x48.71x50.00	VFX1,VFX2	RenderTemplate
+81511712010328	mesh_unknown_no_thumbnail	Mesh	1					0.01x0.00x0.00	arrow	Arrow
+137720542631888	mesh_vortex_ring_dark_torn	Mesh	2					50.00x11.40x49.95	lightning stuff/AwaLightning	End | Start
+122217820569960	mesh_wavy_rings_layered_b	Mesh	2					2.41x0.48x2.46	lightning stuff/AwaLightning	End | Start
+87273433428492	mesh_wavy_rings_tilted_stack	Mesh	10					44.37x14.07x50.00	StarStruck	End | Start
+7430299023	mesh_wavy_tilted_ring	Mesh	4					2.60x0.26x2.51	Startup,VFX1	End | Meshdown | RenderTemplate | Start
+4681227436	mesh_wind_ribbon_torn_spiral	Mesh	24					11.13x8.67x11.34	StarStruck,spin 	End | Start
+113322248153294	mesh_wind_swirl_ribbon_flat	Mesh	20					196.30x78.64x195.93	StarStruck	End | Start
+7224796099	mesh_wind_swirl_ring_c	Mesh	2					13.70x3.82x13.83	lightning stuff/Lightning Drop	End | Start
+108137537040363	meshtex_colored_atlas	MeshTexture	34						spin 	End | Start
+9729834609	meshtex_icy_ring_lens	MeshTexture	4						ShapeAndValuePractice	End | Start
+108085242936725	meshtex_spiky_flame_strip	MeshTexture	2						Startup	End | Start
+16725145012	pe_4point_star_black_outline	PE	2	None	Loop	1	0		arrow	6
+14687560696	pe_BLOCKED_moderated_circle	PE	11	Grid4x4	OneShot	5.9	0		Effects/Blood,Effects/Characters	BLOCKED (moderated, renders blank) | Circle
+7387058218	pe_arc_thin_top	PE	1	None	Loop	2.1	0		Effects/Characters	WindrealALSONotlocked
+96251872953688	pe_bezier_wisp2_sheet	PE	1	Custom	OneShot	16	0		Startup	Bezier Wisp 2
+15423151910	pe_bezier_wisp_sheet	PE	3	Grid4x4	OneShot	1	0		Startup,arrow	Bezier1
+14278119943	pe_black_patch_rings_sheet	PE	2	Grid4x4	OneShot	32	0		arrow	BlackPatches
+15222191191	pe_black_smoke_sheet	PE	1	Custom	OneShot	64	0		MeshFlipSUCCESS	Black Smoke 3
+16125661955	pe_blast_bits_sheet	PE	4	Grid4x4	Loop	24	-1		arrow	Blast1 [13] | Blast2 [1]
+16501229582	pe_blinking_spec_sheet	PE	1	Custom	OneShot	64	0		ShapeAndValue2	Blinking Spec
+11853980698	pe_blood_bits_sheet	PE	2	Grid4x4	OneShot	1.4	-1		Effects/Blood	Blood4c
+11858203067	pe_blood_burst_ring_sheet	PE	2	Grid4x4	OneShot	1.4	-1		Effects/Blood	Blood4c
+14601002045	pe_blood_droplet_sheet	PE	6	Grid4x4	OneShot	1.4	0		Effects/Blood	Blood4 | Blood4a | Blood4c
+94754078244176	pe_blood_droplet_sheet_b	PE	2	Grid4x4	OneShot	1.4	0		Effects/Blood	Blood4c
+14601074609	pe_blood_smear_dark	PE	4	None	OneShot	1.4	-1		Effects/Blood	Blood1
+14431663347	pe_blood_splash_cloud_sheet	PE	2	Grid4x4	OneShot	1.4	0		Effects/Blood	Blood
+15365315623	pe_blood_spray_sheet	PE	2	Grid4x4	OneShot	1	0		Effects/Blood	Blood3
+14395391916	pe_blood_star_splat_sheet	PE	2	Grid4x4	OneShot	1	0		Effects/Blood	Blood3
+13580351149	pe_blurred_spec_big_glow	PE	2	None	OneShot	35.2	0		ShapeAndValuePractice	Blurred Spec 35
+16171528032	pe_blurred_spec_corner	PE	2	None	OneShot	1	0		lightning stuff/AwaLightning	Blurred Spec 26 | Images/322 (1)
+14159634300	pe_blurred_spec_glow	PE	4	None	OneShot	64	0		ShapeAndValuePractice	Blurred Spec 19
+284205403	pe_blurred_spec_large	PE	2	None	OneShot	16	0		ShapeAndValuePractice	Blurred Spec 11
+13795304468	pe_breaking_splash_sheet	PE	2	Custom	OneShot	16	0		BALLVFX	Breaking Splash
+113327609738129	pe_bubble_pop_sheet	PE	1	Grid4x4	OneShot	1	0		VFX2	Images/bubble_pop_6_00000
+119272314820246	pe_bubble_ring_sheet	PE	15	Grid4x4	OneShot	1	0		Down,Up,arrow	ParticleEmitter
+76488007713121	pe_bubbles_optical_sheet	PE	1	Grid4x4	OneShot	1	0		arrow	Bubbles Optical Illusion 4x4
+136510206632630	pe_burst_sheet_purple_colored	PE	1	Grid4x4	OneShot	1	1		Effects/Characters	shockwave3
+85519442962093	pe_c1_faint	PE	20	None	Loop	0.9	0		StarStruck	C1
+118104965185066	pe_cartoon_aoe_sheet	PE	4	Custom	OneShot	16	0		ShapeAndValue2	Greyscale Cartoon AOE
+105731126913156	pe_cartoon_face_blush	PE	1	None	OneShot	1	0		Effects/Characters	face
+14197070443	pe_charging_swirl_sheet_8x8	PE	1	Grid8x8	OneShot	1	0		arrow	Charging swirl 2
+134484695262597	pe_chromatic_flare_soft	PE	2	None	OneShot	1	1		lightning stuff/AwaLightning	Texture
+95185012543861	pe_chromatic_shaded_slash_sheet	PE	2	Grid4x4	OneShot	1	0.550000011920929		Down,Up	Chromatic Shaded Slash
+17006200673	pe_circle72_ring_sheet	PE	3	Grid4x4	OneShot	1	0.699999988079071		Startup,arrow	Circle72
+13911306541	pe_circle_ring_wispy	PE	10	None	OneShot	1	0.6000000238418579		StarStruck	circle
+78587143742689	pe_circles_flipbook02	PE	1	Custom	OneShot	16	0		WaterPractice	CirclesFlipbook02
+94705242050106	pe_cloud1_smoke	PE	4	None	OneShot	1	0.550000011920929		Wind/Smoke OS	Cloud1
+136229684581617	pe_cloud_explosion_sheet	PE	1	Grid4x4	OneShot	1	0.5		Effects/Characters	fire2
+114592278634521	pe_cloud_puff_flame_sheet	PE	2	Grid4x4	OneShot	1.1	1		Effects/Characters	shock
+13180760354	pe_cloud_puff_sheet_c	PE	1	Grid4x4	OneShot	1	0.5		Effects/Characters	fire1
+16177865281	pe_cloud_puff_sheet_e	PE	3	Grid4x4	OneShot	1	0		Effects/Characters	smoksmok
+104565188420017	pe_cloud_puff_soft	PE	6	None	OneShot	1	0		Dash,Down,Up	goatedngl
+72995009925976	pe_cloud_wisp_strip_sheet	PE	2	Grid4x4	OneShot	0.9	-1		Effects/Characters	particle
+17137667240	pe_crack_burst_sheet	PE	2	Grid4x4	OneShot	1	0.10000000149011612		arrow	crack1
+13784241004	pe_crack_contrast_sheet	PE	3	Grid4x4	OneShot	1	1		lightning stuff/AwaLightning	Images/2P_Crack4_Contrast
+15637447149	pe_crescent_arc_sheet	PE	6	Grid4x4	OneShot	1	0		Down,Up	s4 | s5 | s6
+11837711777	pe_crescent_arc_thin	PE	1	None	Loop	2.1	0		Effects/Characters	WindrealALSONotlocked
+75499158209761	pe_crescent_bits_sheet	PE	3	Grid4x4	OneShot	62.7	-3		Effects/Characters	impac
+15269685466	pe_crescent_double_ring_dark	PE	6	None	OneShot	30	1		Effects/Characters	decay16
+18838828771	pe_crescent_double_slash	PE	2	None	OneShot	1	0		VFX1,VFX2	31
+93584340484663	pe_crescent_hook_sheet	PE	2	Grid4x4	OneShot	1	0		lightning stuff/AwaLightning	Images/15_1 | Images/hggggggg
+17069523504	pe_crescent_moon_sheet	PE	3	Grid4x4	OneShot	1	-1		Effects/Characters	5
+16434901408	pe_crescent_new20	PE	4	None	OneShot	8.8	0		ShapeAndValuePractice	New20
+123601953668237	pe_crescent_ring_red_colored	PE	3	None	OneShot	1	0		Effects/Characters	Medium
+73635973004302	pe_crescent_ring_sheet_misc	PE	10	Grid4x4	Loop	0	0		StarStruck	ParticleEmitter
+114656597667803	pe_crescent_ring_thin	PE	4	None	Loop	1.2	1		arrow	Sw1
+16026345008	pe_crescent_sheet_c	PE	6	Grid4x4	OneShot	1	1		Effects/Characters	decay8
+17085222506	pe_crescent_sheet_s3	PE	2	Grid4x4	OneShot	1	-2		Down,Up	s3
+125377110978480	pe_crescent_slash_2x2_white	PE	10	Grid2x2	OneShot	0	0		StarStruck	flipbook
+122460061985642	pe_crescent_slash_detailed	PE	4	None	OneShot	8.8	0		ShapeAndValuePractice	Detailed
+125515565946777	pe_crescent_slash_sheet_white	PE	2	Grid4x4	OneShot	5.9	0		Effects/Characters	Circle
+15011468690	pe_crescent_splash_sheet	PE	3	Grid4x4	OneShot	40	0.800000011920929		Effects/Characters	RingBright | RingBright2 | RingBrightBig
+70395408679231	pe_crescent_wind_double	PE	3	None	Loop	0.5	1		Effects/Characters	WindRealNONLOCKED | shock
+131070767868542	pe_crescents_sheet_b	PE	2	Grid4x4	OneShot	6.5	1		lightning stuff/AwaLightning	Crecents
+8733666206	pe_cross_star_sheet_bold	PE	1	Grid4x4	OneShot	1	-15		Effects/Characters	 0.1
+16511298384	pe_crystal_circle_sheet_8x8	PE	1	Grid8x8	OneShot	1	0		arrow	Crystal Circle
+139899908591194	pe_dark_disappear_sheet	PE	3	Grid4x4	OneShot	32	0		ShapeAndValue2	1_Disappear
+11627083142	pe_dark_grey_smoke2_sheet	PE	1	Custom	OneShot	64	0		lightning stuff/Lightning Drop	Dark Grey Smoke 2
+16034333422	pe_dark_lightning_sheet	PE	2	Custom	OneShot	16	0		MeshFlipSUCCESS	Dark Lightning
+132633122618473	pe_dark_ring_burst_sheet	PE	1	Grid4x4	OneShot	1	-1		lightning stuff/AwaLightning	Texture
+131146356330088	pe_dark_ring_sheet	PE	1	Grid4x4	OneShot	1	0.6499999761581421		Effects/Characters	shockwave2
+11895782540	pe_dark_ring_sheet_blackbg	PE	2	Grid4x4	OneShot	5	1		Effects/Emotes,Effects/Eye Of Rah	Flames
+138949781338061	pe_dark_ring_sheet_c	PE	1	Grid4x4	OneShot	62	1		Effects/Characters	impac
+15371082237	pe_dark_shadow_fire_sheet	PE	2	Custom	OneShot	16	0		ShapeAndValue2	Dark Shadow Fire
+14483718869	pe_diagonal_orb_3d_sheet	PE	1	Custom	OneShot	64	0		WaterPractice	Diagonal Orb 3D
+1349050856	pe_dirt_grains_specks	PE	2	None	OneShot	1	0		Wind/Smoke OS	Multiple Specs 17
+87180053247428	pe_disappearing_crescent_sheet	PE	4	Custom	OneShot	8.8	0		ShapeAndValuePractice	Dissapearing Crescent
+137562321329688	pe_dot_burst_sheet_8x8_b	PE	10	Grid8x8	OneShot	0.4	0		lightning stuff/LightningAura	2
+8084996370	pe_dot_glow_offset	PE	1	None	OneShot	1	-1		lightning stuff/AwaLightning	Images/DotNoBGOffset
+105293844623669	pe_dot_ring_circle	PE	1	None	Loop	1	0		arrow	magic_02-Hexagon
+8511527728	pe_dots_faint	PE	2	None	Random	0	-1		arrow	Dots [28]
+14973797453	pe_drawn_crescent_2x2	PE	3	Grid2x2	OneShot	1	1		Wind/Smoke OS	Drawn Crescent
+14945509165	pe_dust_cloud_sheet_8x8	PE	2	Grid4x4	Loop	0.3	0		Effects/Smoke	Dust2 | Dust3
+13235750188	pe_dust_flat_out_spiky	PE	1	None	OneShot	1	0		arrow	DustFlatOut
+11845281419	pe_dust_flat_puff_sheet	PE	4	Grid4x4	OneShot	1	1		arrow	DustFlat
+12865691168	pe_dust_mist_sheet_8x8	PE	2	Grid8x8	OneShot	1	-0.800000011920929		Effects/Blood	dust
+14442131728	pe_dust_puff_sheet	PE	2	Grid4x4	OneShot	1	0		arrow	Dust1
+10198439352	pe_dusty_impact_sheet	PE	2	Custom	OneShot	16	0.5		lightning stuff/AwaLightning,lightning stuff/Lightning Drop	Dusty Impact | ParticleEmitter
+81989096596502	pe_electric_burst_sheet	PE	1	Grid4x4	OneShot	1	0.800000011920929		lightning stuff/AwaLightning	Images/81561680551540_2
+86645107894255	pe_electric_e1_sheet	PE	5	Grid4x4	OneShot	1	0		lightning stuff/LightningAura	E1
+16845756972	pe_electric_e2_fire11_sheet	PE	6	Grid4x4	OneShot	1	0		lightning stuff/LightningAura,lightning stuff/yareyaredaze	E2 | Fire11
+17006155963	pe_electric_e3_sheet	PE	5	Grid4x4	OneShot	1	0		lightning stuff/LightningAura	E3
+16865991773	pe_electric_e4_sheet_8x8	PE	5	Grid8x8	OneShot	1	0		lightning stuff/LightningAura	E4
+12356442287	pe_electric_e5_sheet	PE	5	Grid4x4	OneShot	1	0		lightning stuff/LightningAura	E5
+122994346861379	pe_electric_e6_sheet	PE	5	Grid4x4	OneShot	1	0		lightning stuff/LightningAura	E6
+15742179465	pe_electricity_tx01_sheet	PE	3	Grid4x4	OneShot	1	0		lightning stuff/AwaLightning	Images/Tx_electricity_01_2
+16511790647	pe_energy_pulse_sheet	PE	4	Custom	OneShot	64	0		ShapeAndValuePractice	Realistic Energy Pulse
+88802733546291	pe_energy_sheet_blue_purple_colored	PE	2	Grid4x4	OneShot	1	1		Effects/Characters	psycho1 | smoke2
+11037783685	pe_explode_flash_dax	PE	1	None	OneShot	1	0.800000011920929		lightning stuff/AwaLightning	Images/DAX_Explode_00
+15194500627	pe_explosion_ember_dots_8x8_colored	PE	2	Grid8x8	OneShot	1	0.800000011920929		Effects/Characters	Explosion | ExplosionFast
+16777577977	pe_explosion_ring_sheet_8x8	PE	2	Grid2x2	OneShot	1	0		Effects/Characters	23qddf2
+11409590769	pe_explosion_star_burst_white	PE	1	None	OneShot	1	0.5		lightning stuff/AwaLightning	ParticleEmitter
+13781849388	pe_fade_burst_sheet	PE	2	Custom	Loop	16	0		Down,Up	Finished fade
+12817881196	pe_faded_slash_contrast_sheet	PE	1	Grid4x4	OneShot	1	0.8999999761581421		lightning stuff/AwaLightning	Images/FadedSlshay_Contrast
+13782885260	pe_fading_dark_ground_crack	PE	1	Custom	OneShot	16	0		lightning stuff/Lightning Drop	Fading dark ground crack
+124850698650928	pe_faint_bits_e	PE	1	None	OneShot	1	1		lightning stuff/AwaLightning	Images/131197606107666_g_c
+93168616983154	pe_faint_bits_sheet_c	PE	1	None	OneShot	1	1		Effects/Characters	psycho5
+124384892151105	pe_faint_blank	PE	10	None	OneShot	1	1		StarStruck	Images/88091471430778
+139851738398320	pe_faint_blank_b	PE	10	None	OneShot	1	0		StarStruck	Images/104690121423787_c
+14882713197	pe_faint_blank_c	PE	1	Grid4x4	OneShot	1.9	1		Effects/Characters	WindrealALSONotlocked
+17652972401	pe_faint_blank_d	PE	2	Grid4x4	OneShot	60	-5		Effects/Characters	spark
+108310965517653	pe_faint_blank_e	PE	1	None	OneShot	1	1		lightning stuff/AwaLightning	Texture
+109916114854926	pe_faint_dust_sheet	PE	3	None	OneShot	1	0.30000001192092896		Dash,Down,Up	Smoke
+11613258796	pe_faint_dust_sheet_b	PE	6	Grid8x8	OneShot	1	0.25		arrow	ParticleEmitter
+86486959158389	pe_faint_noise_sheet	PE	1	Grid4x4	OneShot	1	1		Effects/Characters	shockwave6
+117890458977439	pe_faint_specks_sheet	PE	1	Grid4x4	OneShot	1	0		BALLVFX	Images/Sprite_048 (1)
+70702457221234	pe_faint_star_img99	PE	1	None	OneShot	1	0.800000011920929		lightning stuff/AwaLightning	Images/IMG_0099
+125214381397274	pe_fancy_spinning_lightning	PE	1	Custom	OneShot	16	0		lightning stuff/Lightning Drop	Fancy Spinning Lightning
+105353648066453	pe_fast_line_sheet	PE	1	Grid4x4	OneShot	1	0.699999988079071		lightning stuff/AwaLightning	FastLine_1
+8048608283	pe_fat_impact_stylized	PE	14	None	Loop	1	0.20000000298023224		ShapeAndValuePractice,StarStruck	FatImpact | StylizedImpat1
+71119868215891	pe_filled_hollow_impact	PE	1	Custom	OneShot	16	0		lightning stuff/Lightning Drop	Filled hollow impact
+15694384576	pe_filler_radial_faint	PE	10	None	OneShot	1	0.9800000190734863		StarStruck	filler
+12937922388	pe_filler_radial_soft	PE	10	None	OneShot	1	0.9800000190734863		StarStruck	filler
+71260831432005	pe_filler_ring_rays	PE	10	None	OneShot	1	0.9800000190734863		StarStruck	filler
+16860219678	pe_fire32_sheet	PE	15	Grid4x4	OneShot	1	0		Down,Up,arrow	Fire32 | b
+16860226897	pe_fire33_sheet	PE	15	Grid4x4	OneShot	1	0		Down,Up,arrow	Fire33 | b
+16860307403	pe_fire38_sheet	PE	1	Custom	OneShot	16	0.10000000149011612		lightning stuff/yareyaredaze	Fire38
+16860424478	pe_fire46_sheet	PE	1	Custom	OneShot	16	0		ShapeAndValue2	Fire46
+17062535921	pe_fire55_sheet	PE	2	Custom	OneShot	16	0		ShapeAndValue2	Fire55
+16845227778	pe_fire6_sheet	PE	2	Custom	OneShot	16	0		ShapeAndValue2	Fire6
+117772767367241	pe_fire_burst2_sheet	PE	1	Grid4x4	OneShot	1	0.9599999785423279		lightning stuff/AwaLightning	FireBurst_2
+125606840536264	pe_fire_burst_sheet_11	PE	15	Grid4x4	OneShot	1	0		Down,Up,arrow	Fire11 | b
+135866425386690	pe_fire_burst_sheet_11b	PE	15	Grid4x4	OneShot	1	-1		Down,Up,arrow	Fire11b | b
+122954463046434	pe_fire_burst_sheet_125	PE	15	Grid4x4	OneShot	1	0		Down,Up,arrow	Fire125 | b
+125589219124561	pe_fire_slash_flipbook_a	PE	39	Custom	OneShot	1	0		Dash,Down,Up,spin 	Fir
+125933365360022	pe_fire_slash_flipbook_b	PE	39	Custom	OneShot	1	0		Dash,Down,Up,spin 	Fir
+82694450715960	pe_fire_slash_flipbook_c	PE	39	Custom	OneShot	1	0		Dash,Down,Up,spin 	Fir
+86955745604080	pe_fire_slash_flipbook_d	PE	39	Grid4x4	OneShot	1	0		Dash,Down,Up,spin 	Fir
+90450352696620	pe_fire_slash_flipbook_e	PE	39	Custom	OneShot	1	0		Dash,Down,Up,spin 	Fir
+90941340189047	pe_fire_slash_flipbook_f	PE	39	Custom	OneShot	1	0		Dash,Down,Up,spin 	Fir
+99467489605633	pe_fire_slash_flipbook_g	PE	39	Custom	OneShot	1	0		Dash,Down,Up,spin 	Fir
+137072596387997	pe_fireflies_dots	PE	2	None	OneShot	16	1		WaterPractice	fireflies
+72365776684661	pe_flame_aura_streaks	PE	1	None	Loop	23	0		lightning stuff/AwaLightning	Images/Flame Aura8
+105107349199911	pe_flame_burst_sheet_64f	PE	6	Grid4x4	OneShot	1	0		ShapeAndValue2,ShapeAndValuePractice	2 | 3 (64 Frames) | ParticleEmitter
+73313375995343	pe_flame_crack_sheet	PE	1	Grid4x4	OneShot	2.6	-1		Effects/Characters	Fire2
+129623777159943	pe_flame_lick_sheet	PE	25	Grid4x4	OneShot	1	0		Down,Up,arrow	1 | 5
+131087091781060	pe_flame_lick_sheet_b	PE	2	Grid4x4	OneShot	5.9	-4		Effects/Characters	Circle
+16867530947	pe_flame_shard_sheet	PE	4	Grid4x4	OneShot	1	0		Effects/Characters	smoksmok
+133348460606413	pe_flame_shards_spike_sheet	PE	6	Grid4x4	OneShot	1	-0.6000000238418579		Effects/Characters	FLAME SHARDS 22
+15413764911	pe_flame_shards_white_sheet	PE	7	Grid4x4	OneShot	1	0		Effects/Characters	FL121AME SHARDS | FLAME SHA31RDS
+11822996479	pe_flame_sheet_b	PE	1	Grid4x4	OneShot	23	0		lightning stuff/AwaLightning	Images/Flame
+17428903284	pe_flame_spike_sheet	PE	6	Grid4x4	OneShot	1	0		Effects/Characters	11.n
+93312079157280	pe_flame_spike_sheet_b	PE	4	Grid4x4	OneShot	1	-1		Effects/Characters	6
+12363774100	pe_flare18_starburst	PE	3	None	OneShot	1	-1		lightning stuff/AwaLightning	Images/flare_18
+9504165696	pe_flare296_star	PE	1	None	OneShot	16	0		MeshFlipSUCCESS	Flare296New
+13161986324	pe_flare_4point_soft	PE	7	None	Loop	1.7	1		arrow	Flare247New
+70728001087698	pe_flare_chromatic_blackbg	PE	8	None	Loop	1	1		arrow	Flare20New
+17230437889	pe_flare_star_streak_141	PE	2	None	Loop	1	-3		ShapeAndValue2	Flare141New
+96013523226630	pe_flare_twinkles_sheet	PE	24	Grid4x4	OneShot	1	1		StarStruck,arrow	Flare Twinkles
+9710916533	pe_flash1_horizontal	PE	1	None	Loop	1	1		arrow	Flash1
+130893832871890	pe_flash_4point_wide	PE	11	None	Loop	0.7	0		StarStruck,arrow	Flash
+7216979701	pe_flash_horizontal_thin	PE	2	None	PingPong	0	0		Effects/Characters	red
+130039509044466	pe_flash_starburst_hot	PE	21	None	Loop	0.9	0		StarStruck,arrow	vfxtuff
+16725955721	pe_flash_starburst_soft	PE	3	None	OneShot	1	-1		lightning stuff/AwaLightning	Images/10 (5)
+15441262724	pe_floating_spec_sheet	PE	2	Custom	OneShot	64	-10		MeshFlipSUCCESS	Floating Animated Spec
+108313793193496	pe_flower_burst_sheet	PE	2	Grid4x4	OneShot	1	-2		arrow	Expanding flower 3
+79338909305152	pe_flower_shockwave_sheet	PE	2	Grid4x4	OneShot	1	0.44999998807907104		arrow	Flower Shockwave
+12800352684	pe_fluid_droplet_sheet_2x2	PE	3	Grid2x2	OneShot	1	0		BALLVFX,VFX1,VFX2	Images/fluid11
+15435019950	pe_fly_streaks_sheet	PE	1	Grid4x4	OneShot	1	0.30000001192092896		lightning stuff/AwaLightning	Fly
+119405796309356	pe_fog_patch_sheet	PE	1	Custom	OneShot	16	0		MeshFlipSUCCESS	Fog patch
+119485768726775	pe_fog_sheet_b	PE	1	Grid4x4	OneShot	1	0.8999999761581421		lightning stuff/AwaLightning	Images/fog
+86639851313733	pe_forming_flower_sheet	PE	2	Grid4x4	OneShot	1	0		arrow	Forming flower
+104302733170217	pe_galaxy_burst_sheet	PE	15	Grid4x4	OneShot	1	0		Down,Up,arrow	Galaxy Burst
+102952757482125	pe_glare_rainbow_ring	PE	2	None	OneShot	1	1		lightning stuff/AwaLightning	Images/glare11
+123537613064060	pe_glass_shatter_burst	PE	2	None	Loop	1	0		Down,Up	Glass Shatter
+72485468908363	pe_glow_blank_faint	PE	10	None	Loop	1	1		StarStruck	Glow
+129922860680208	pe_glow_cone_faint	PE	20	None	Loop	1	0.9800000190734863		StarStruck	Glow
+12681311322	pe_glow_dot_corner	PE	3	None	Loop	1	-15		Effects/Characters	specs
+11448304274	pe_glow_dot_hot	PE	8	None	Loop	3.2	-2		arrow	specs
+120240711510201	pe_glow_dot_medium	PE	4	None	Loop	1	0		ShapeAndValuePractice	Medium Dot 2
+13189667061	pe_glow_dot_sheet	PE	2	Custom	OneShot	16	0		MeshFlipSUCCESS,WaterPractice	Glow
+12010063499	pe_glow_dot_small_offcenter	PE	2	None	OneShot	1	-1		arrow	[2]
+83660384818553	pe_glow_dot_tiny	PE	2	None	Loop	11.5	-1		Effects/Characters	Sparks
+8642363631	pe_glow_dot_tiny_b	PE	3	None	Loop	1	0		Effects/Smoke	Sparks
+107821950776778	pe_glow_fading_soft	PE	23	None	OneShot	1	1		StarStruck,arrow	Fading Glow
+13992197350	pe_glow_ring_sheet	PE	10	Grid4x4	OneShot	1	1		StarStruck	Glow
+6673021984	pe_glow_soft_center	PE	10	None	Loop	1	1		StarStruck	Glow
+1075864321	pe_glow_soft_round	PE	22	None	Loop	1	1		StarStruck,Startup	glow
+89499126269426	pe_glow_soft_round_b	PE	1	Grid4x4	OneShot	1	-1		Effects/Characters	glow
+16879789169	pe_glow_soft_small	PE	7	None	OneShot	1	1		Effects/Characters	FLAME SHARDS 22
+87333577017587	pe_glowing_blurred_slash_sheet	PE	2	Grid4x4	OneShot	1	0		Down,Up	Glowing Blurred Slash
+88172632768007	pe_glowing_dark_rock	PE	4	Custom	OneShot	4	0		ShapeAndValue2	glowing dark rock
+80656721027970	pe_glowing_embers_sheet	PE	2	Custom	OneShot	16	0		ShapeAndValuePractice	glowing embers 4x4
+14844270653	pe_glowing_spec_square_soft	PE	2	None	OneShot	4	0		ShapeAndValue2	Glowing Spec 9
+81831254526415	pe_goodshockwave_ring	PE	10	None	Loop	0.9	0		StarStruck	goodshockwa
+15855894460	pe_gradient_shard_burst	PE	3	None	Loop	0.8	1		Dash,Startup	gradient
+14919880888	pe_grey_galaxy_smoke_sheet	PE	5	Grid4x4	OneShot	1	0.550000011920929		MeshFlipSUCCESS,Wind/Smoke OS	Grey Galaxy Smoke
+112656826514756	pe_grey_smoke_sheet	PE	4	Grid4x4	OneShot	1	0.550000011920929		Wind/Smoke OS	Grey Smoke 13
+82576941307593	pe_ground21_slash_streak	PE	3	None	OneShot	32	0.6000000238418579		Down,ShapeAndValue2,Up	Ground21 | Slash
+78777197785281	pe_ground30_crater	PE	1	None	OneShot	16	0		ShapeAndValue2	Ground30
+129636587672114	pe_ground_burn_sheet_8x8	PE	15	Grid8x8	OneShot	7.7	-1		Down,Up,arrow	GroundBurn
+17013333656	pe_ground_crack_decal	PE	2	None	Loop	1	0.5		arrow	crack
+125314922601956	pe_ground_crack_lines	PE	4	None	OneShot	32	0		Down,Up	Tewak
+13670411508	pe_ground_flipbook_sheet	PE	10	Grid4x4	OneShot	30	0		lightning stuff/LightningAura	lighting4
+129439214802271	pe_ground_smoke_puff_sheet	PE	3	Grid4x4	OneShot	0.7	-1		Dash,Down,Up	SmokeGround2
+6862984716	pe_hard_ring_thick	PE	20	None	Loop	1	0.25		StarStruck	HardRing | ThickRing
+7186917915	pe_hit_shatter_disc_white	PE	2	None	Loop	1	-1		Effects/Blood	HitShatter
+17265977573	pe_hit_star_2x2	PE	22	Grid2x2	OneShot	6.9	0		StarStruck,arrow	Hit | Impact2
+102627867105014	pe_horizontal_flare_soft	PE	1	None	Loop	1	1		Startup	Flares1
+8050136743	pe_impact201_ring_thin	PE	2	None	Loop	1	0		arrow	Impact201
+73649245182561	pe_impact289_ring_sheet	PE	2	Grid4x4	OneShot	1	0.699999988079071		Down,Up	Impact289
+88656934262835	pe_impact393_ring_wobble	PE	1	None	OneShot	16	0		lightning stuff/Lightning Drop	Impact393
+12363806504	pe_impact3_ring_soft	PE	2	None	OneShot	1	1		lightning stuff/AwaLightning	Images/impact_3
+78043674430474	pe_impact4_star_spikes	PE	20	None	Loop	1	0		StarStruck	Impact4
+71570654111653	pe_impact6222_sheet	PE	1	Custom	OneShot	16	0		lightning stuff/Lightning Drop	Impact6222
+10623276030	pe_impact647_dark_ring_blackbg	PE	1	None	OneShot	1	1		lightning stuff/AwaLightning	Impact647
+16880037488	pe_impact9_sheet	PE	1	Custom	OneShot	16	0		lightning stuff/Lightning Drop	Impact9
+114098821205538	pe_impact_o_ring_sheet	PE	4	Grid4x4	OneShot	1	-0.5		lightning stuff/AwaLightning	ImpactO
+74406026456360	pe_impact_petal_ring_soft	PE	4	None	Loop	1.5	1		Effects/Characters	WindRealNONLOCKED | shock
+12386396405	pe_impact_petal_soft	PE	1	None	OneShot	16	0		VFX2	14
+13051695094	pe_impact_radial_rays	PE	10	None	Loop	1	1		StarStruck	Impact1
+126755071876766	pe_impact_radial_soft_b	PE	1	None	Loop	0.6	1		Effects/Characters	shock
+15056677063	pe_impact_radial_soft_c	PE	1	None	OneShot	1	1		lightning stuff/AwaLightning	Images/Png-15
+12937922496	pe_impact_ring_bright_rays	PE	2	None	Loop	1	0		arrow	Impact347
+15333808121	pe_impact_ring_bristle	PE	10	None	Loop	0.9	0		StarStruck	Impact1
+14457094589	pe_impact_ring_dark_soft	PE	2	None	OneShot	1	1		arrow	Impact333
+12402897209	pe_impact_ring_soft_rays	PE	5	None	OneShot	1	1		VFX2,arrow	68 | Impact327
+12385813444	pe_impact_ring_spiky_soft	PE	2	None	Loop	1	0		arrow	Impact252
+16997072742	pe_impact_shard_burst_46	PE	4	None	OneShot	4	-1		ShapeAndValuePractice	Impact46
+16892233716	pe_impact_soft_burst_16	PE	10	None	OneShot	1	0.6000000238418579		StarStruck	Impact16
+139996721670588	pe_impact_spike_ring_burst	PE	1	None	OneShot	1	1		Effects/Characters	shockwave3
+131637240475311	pe_impact_spike_star	PE	10	None	Loop	1	0		StarStruck	ParticleEmitter
+136040076370041	pe_impact_spike_star_sharp	PE	4	None	Loop	0.6	0		ShapeAndValuePractice	OdinOs_8
+16892231149	pe_impact_spiky_burst_15	PE	1	None	OneShot	59.3	0		arrow	Impact15
+76897475584765	pe_impact_spiky_radial_soft	PE	1	None	OneShot	1	1		Effects/Characters	shockwave4
+12911962998	pe_impact_spiky_ring_white	PE	3	None	OneShot	8.9	0		Effects/Characters	shockwave
+111201477865186	pe_impact_star_blue_orange_colored	PE	1	None	OneShot	1	1		Effects/Characters	shockwave7
+13115734886	pe_impact_star_sheet	PE	12	Grid4x4	OneShot	1	-1		StarStruck,arrow	ParticleEmitter | b
+14813420032	pe_impact_starburst_rays	PE	10	None	Loop	1	1		StarStruck	Impact1
+112620038086327	pe_ink_bits_scatter_sheet	PE	1	Grid4x4	OneShot	1	1		Effects/Characters	psycho3
+100749460616681	pe_ink_blots_sheet	PE	1	Grid4x4	OneShot	32	0		ShapeAndValue2	1_Appear
+84849028410631	pe_ink_burst_sheet	PE	82	Grid4x4	OneShot	1	0		Down,Up,arrow,spin 	1 | 6
+125570183631896	pe_ink_cloud_puff	PE	39	None	OneShot	1	0		Down,Up,arrow,spin 	3
+14327437980	pe_ink_flake_sheet	PE	4	Grid4x4	OneShot	1	-1		arrow	1 | 3
+100003213330529	pe_ink_specks_sheet	PE	15	Grid4x4	OneShot	40.6	-1		Down,Up,arrow	L4
+111941934755249	pe_ink_spike_burst_sheet	PE	1	Grid4x4	OneShot	1	0		Effects/Characters	ParticleEmitter
+4029616173	pe_jojo_menacing_kanji_colored	PE	1	None	Loop	1	0		Effects/Characters	jojo kanji violet
+16879808635	pe_kite_shard_b	PE	1	None	Loop	1	0.5		lightning stuff/AwaLightning	ParticleEmitter
+11201546023	pe_kite_shard_streak	PE	1	None	Loop	3.3	0		arrow	Emit
+243660373	pe_light_shine_soft	PE	8	None	OneShot	1	0.9700000286102295		lightning stuff/AwaLightning	PARTICE Light shine
+17005532550	pe_lightning22_sheet	PE	1	Custom	OneShot	16	0		lightning stuff/Lightning Drop	Lightning22
+17005538321	pe_lightning23_sheet	PE	1	Custom	OneShot	16	0		lightning stuff/yareyaredaze	Lightning23
+17005865240	pe_lightning30_sheet	PE	1	Custom	OneShot	16	0		lightning stuff/yareyaredaze	Lightning30
+17005881987	pe_lightning34_custom_sheet	PE	1	Custom	OneShot	16	0		lightning stuff/Lightning Drop	Lightning34
+11613913346	pe_lightning34_sheet	PE	1	Grid4x4	OneShot	1	-0.10000000149011612		lightning stuff/AwaLightning	lightning (34)
+17005527371	pe_lightning44_sheet	PE	1	Grid4x4	OneShot	1	0.800000011920929		lightning stuff/AwaLightning	lightning (44)
+13712002093	pe_lightning4_faint	PE	1	None	Loop	1	0.5		lightning stuff/AwaLightning	ParticleEmitter
+79593708822934	pe_lightning_book_custom	PE	1	Custom	OneShot	1	-0.5		lightning stuff/AwaLightning	Images/LightningBook_00000
+17005511675	pe_lightning_book_sheet	PE	1	Grid4x4	OneShot	1	-0.5		lightning stuff/AwaLightning	Images/LightningBook_00000
+89116956652289	pe_lightning_book_sheet_b	PE	2	Grid4x4	OneShot	1	0		lightning stuff/AwaLightning	Images/15691415178 | Images/LightningBook_00000
+86186431822396	pe_lightning_new2_sheet	PE	2	Custom	OneShot	16	0		MeshFlipSUCCESS	LightningNew2
+11862160354	pe_lightning_ring_sheet	PE	1	Grid4x4	OneShot	1	-1		lightning stuff/AwaLightning	lightning
+100900157130245	pe_lightning_sheet_a	PE	2	Grid4x4	OneShot	1	1		lightning stuff/AwaLightning	lightning
+11862032588	pe_lightning_sheet_b	PE	1	Grid4x4	OneShot	1	0		lightning stuff/AwaLightning	lightning
+127057910167957	pe_lightning_spark_4x4	PE	1	Custom	OneShot	16	0		lightning stuff/Lightning Drop	Lightning Spark 4x4
+11515478646	pe_lightning_squiggle_sheet	PE	1	Grid4x4	OneShot	1	0.20000000298023224		lightning stuff/AwaLightning	Images/104933213624042
+138306419028855	pe_lightning_thread_sheet	PE	1	Grid4x4	OneShot	1	0		lightning stuff/AwaLightning	Images/76551768821666
+116533852896669	pe_lightning_up_sheet	PE	1	Grid4x4	OneShot	1	-0.5		lightning stuff/AwaLightning	Images/lightning_up_00000
+15989904878	pe_line_chromatic_streak	PE	1	None	Loop	1	0		lightning stuff/AwaLightning	Images/linetext
+82856471581299	pe_line_slash_sheet	PE	1	Custom	OneShot	16	1		ShapeAndValue2	Line Slash 1
+87904104613018	pe_line_spec_needle	PE	6	None	OneShot	16	0		ShapeAndValuePractice	Line Spec 16
+73632766634333	pe_lines_up_sheet	PE	52	Grid4x4	OneShot	4.7	0		spin 	linesup
+15718952644	pe_lines_vertical_flame	PE	4	None	Loop	1	-1		arrow	Lines1 [1] | Lines1 [20]
+127240797498085	pe_linger_shock_arc	PE	3	None	Loop	1.4	0.20000000298023224		Dash,Startup	LingerShock
+13486412595	pe_low_res_burst_sheet	PE	1	Custom	OneShot	16	0		ShapeAndValue2	Low Res Burst
+127687210481707	pe_magic_circle_runes	PE	2	None	Loop	1	0		arrow	MagicCircle4
+16511904372	pe_magic_circle_sheet_8x8	PE	1	Grid8x8	OneShot	1	-1		arrow	Magic Circle
+12386363554	pe_multiple_specs_faint	PE	4	None	OneShot	16	0		ShapeAndValuePractice	Multiple Specs 26
+15142050539	pe_multiple_specs_streaks	PE	4	None	OneShot	16	0		ShapeAndValuePractice	Multiple Specs 5
+13802469635	pe_needle_glint_vertical	PE	8	None	Loop	1	-2		Effects/Characters	Slash 2
+6763809313	pe_needle_glow_small	PE	10	None	Loop	1	0.6700000166893005		StarStruck	Impact1
+1315202524	pe_needle_streak_vertical	PE	1	None	Loop	1.5	0		arrow	Emit
+138004702320351	pe_orb_dots_2x2	PE	16	Grid2x2	Loop	0	1		arrow	2
+17245265091	pe_outlined_smoke_sheet	PE	1	Grid4x4	OneShot	1	-0.5		lightning stuff/AwaLightning	Outlined_Smoke1
+11447021694	pe_outward_fog_sheet	PE	1	Custom	OneShot	64	0		lightning stuff/Lightning Drop	Outward Fog
+131268064929889	pe_paint_splash	PE	1	None	OneShot	16	0		WaterPractice	Paint Splash2
+12996605668	pe_plasma_swirl_sheet	PE	1	Grid4x4	OneShot	1	1		lightning stuff/AwaLightning	Pla
+13136714025	pe_puff_flake_sheet	PE	2	Grid4x4	OneShot	1	-1		arrow	[4]
+102161518877797	pe_puff_sheet_small	PE	26	Grid4x4	OneShot	1.9	0		spin 	Extra
+14464304767	pe_punch_impact_broken_ring	PE	1	None	Loop	1	1		Effects/Characters	punchimpact25
+14412584351	pe_punch_impact_ring_soft	PE	1	None	Loop	1	1		Effects/Characters	punchimpact1
+88146287569612	pe_punch_impact_starburst	PE	1	None	Loop	1	1		Effects/Characters	impacto1
+112043969867945	pe_radial_splinter_burst	PE	2	None	Loop	1	-1		Down,Up	Ground18
+78772401055219	pe_rainbow6_arcs	PE	2	None	OneShot	16	0		BALLVFX,VFX2	Rainbow6
+97232854781041	pe_rainbow6_flare_blue	PE	4	None	Loop	1	1		arrow	Rainbow6
+73923538782076	pe_rainbow_horizontal_glare	PE	1	None	OneShot	16	1		ShapeAndValue2	Bright Rainbow Horizontal Star Glare
+101943315608494	pe_rainbow_lens_ring	PE	1	None	OneShot	64	0		WaterPractice	Rainbow Lens Flare
+87860081484419	pe_rainbow_ring_burst_colored	PE	3	None	Loop	0.5	1		Effects/Characters	WindRealNONLOCKED | shock
+109806158272032	pe_rainbow_ring_ooh	PE	2	None	OneShot	1	1		lightning stuff/AwaLightning	Images/ooh 1 (1)
+84609799389129	pe_realistic_bubble_sheet	PE	2	Custom	OneShot	64	0		BALLVFX,VFX2	realistic bubble
+109689877864083	pe_realistic_smoke5_sheet	PE	1	Custom	OneShot	16	0		lightning stuff/Lightning Drop	Realistic Smoke 5
+81580024241252	pe_realistic_smoke_specks	PE	8	None	OneShot	1	0.550000011920929		Wind/Smoke OS	Realistic Smoke with circle specs
+14601007537	pe_red_specks_sheet	PE	2	Grid4x4	OneShot	1.5	0		Effects/Characters	red
+17226939594	pe_regular_specs_4x4	PE	1	Grid4x4	OneShot	135	-0.5		lightning stuff/AwaLightning	Images/RegularSpecs4x4
+14005221169	pe_ring_bright_soft_thick	PE	1	None	Loop	3.6	0		Effects/Characters	1
+95143770508905	pe_ring_bristle_b	PE	3	None	Loop	3.9	0		Effects/Characters	Wind | shock
+8904012224	pe_ring_bristle_white	PE	8	None	Loop	1	0		Effects/Characters	23qddf2
+18527700887	pe_ring_broken_crescents	PE	6	None	Loop	6.5	1		Down,Up	n3
+9905261707	pe_ring_bubble_sheet	PE	2	Grid4x4	OneShot	1	0.20000000298023224		arrow	Ring
+89987616093488	pe_ring_bubble_sheet_b	PE	1	Grid4x4	OneShot	1	1		Effects/Characters	shockwave5
+108744013363855	pe_ring_burst_bits_sheet	PE	3	Grid4x4	OneShot	5.9	1		Effects/Characters	Circle
+13795445083	pe_ring_burst_sheet	PE	2	Grid4x4	OneShot	1	0.20000000298023224		arrow	Ring
+99188828191044	pe_ring_crescent_broken	PE	1	None	Loop	0.8	0		Effects/Characters	cresc
+75656814683002	pe_ring_crescent_faint	PE	1	None	OneShot	7	0		Effects/Characters	shockwave
+16877883455	pe_ring_crescent_sheet_circle8	PE	1	Grid4x4	OneShot	1	-2		arrow	Circle8
+88715326278213	pe_ring_crescent_sheet_e	PE	2	Grid4x4	OneShot	1	1		Effects/Characters	shockwave1 | shockwave2
+138698095349887	pe_ring_crumble_sheet	PE	2	Grid4x4	OneShot	1	1		Effects/Characters	psycho4 | shockwave1
+15953595361	pe_ring_crumble_sheet_b	PE	8	Grid4x4	Loop	1	0		Effects/Characters	1
+18786056829	pe_ring_crumble_sheet_c	PE	1	Grid4x4	OneShot	1	0.5		Effects/Characters	shockwave8
+79011503859879	pe_ring_crumble_sheet_d	PE	6	Grid4x4	OneShot	0.5	0		Effects/Characters	WindRealNONLOCKED | impac | shock
+95444149177305	pe_ring_crumble_sheet_e	PE	1	Grid4x4	OneShot	62.7	0		Effects/Characters	impac
+95584607494063	pe_ring_crumble_sheet_f	PE	1	Grid4x4	OneShot	1	1		Effects/Characters	smoke1
+97090591725724	pe_ring_faint_soft	PE	1	None	OneShot	2	0		Effects/Characters	shockwave
+11037291778	pe_ring_glow_blackbg	PE	2	None	Loop	1	1		Effects/Characters	32q3rdgdsg
+102929865519087	pe_ring_glow_rays	PE	3	None	Loop	0.8	1		Dash,Startup	gradient
+119175605555395	pe_ring_glow_rays_c	PE	1	None	OneShot	1	0		Effects/Characters	shockwave4
+10039693328	pe_ring_glow_spiky_soft	PE	12	None	OneShot	2.2	1		StarStruck,Startup	Roar
+113678423988783	pe_ring_puff_cloud_sheet	PE	1	Grid4x4	OneShot	5.9	1		Effects/Characters	Circle
+10529371971	pe_ring_rays_bright	PE	10	None	Loop	1	0.4000000059604645		StarStruck	Full Shockwave
+88904091359499	pe_ring_rays_dome_soft	PE	30	None	Loop	1	0		StarStruck	wadwawdad
+114199959187614	pe_ring_soft_gradient	PE	3	None	Loop	0.7	0.5		Dash,Startup	gradient
+7044330567	pe_ring_soft_thick	PE	2	None	Loop	1	0.5		arrow	Ring
+10147712199	pe_ring_soft_wobble	PE	1	None	Loop	1	1		Effects/Characters	3werfsdfsdf1
+127504462124204	pe_ring_thin_perfect	PE	2	None	OneShot	2	0		Effects/Characters	shockwave
+135535427438365	pe_ring_thin_perfect_b	PE	1	None	Loop	2.5	1		Effects/Characters	impac
+15642850379	pe_ring_thin_sheet_b	PE	2	Grid4x4	OneShot	95.5	1		Effects/Characters	impac
+124692159307028	pe_ring_thin_sheet_faint	PE	1	Grid4x4	OneShot	0.7	-1		Effects/Characters	Shockreal
+91195065145907	pe_ripple01_sheet	PE	1	Custom	OneShot	16	0		WaterPractice	ripple01
+85403020583447	pe_rock6_polyhedral	PE	2	Custom	OneShot	4	0		ShapeAndValue2	Rock6
+11353163220	pe_rock_chunks_2x2	PE	1	Grid2x2	OneShot	1	0		VFX1	Images/rockflip2
+136581833933602	pe_rock_debris_sheet	PE	2	Custom	OneShot	16	0		ShapeAndValue2	Roblox Rock
+6730730442	pe_rock_realistic	PE	2	None	Loop	1	0		arrow	Rocks2
+15506651773	pe_rocks_2x2	PE	2	Grid2x2	Loop	0	0		arrow	Rocks
+81575182597575	pe_rocks_2x2_b	PE	6	Grid2x2	OneShot	3	-0.20000000298023224		Dash,Down,Up	Rocks
+16879806460	pe_rotating_streak_faint	PE	22	None	OneShot	1	0.3499999940395355		StarStruck,arrow	_33,1_2 rotspeed -475_2,475_2
+11627077002	pe_seamless_fog_sheet	PE	1	Custom	OneShot	64	0		ShapeAndValue2	Seamless Fog
+74423014151204	pe_shaded_slash17_sheet	PE	2	Grid4x4	OneShot	1	0		Down,Up	Shaded Slash 17
+124975071665876	pe_shaded_smoke_sheet	PE	1	Custom	OneShot	16	0		ShapeAndValue2	Shaded Smoke 2
+16056965573	pe_shard_glow_sheet	PE	1	Grid4x4	OneShot	1.4	0		lightning stuff/AwaLightning	Images/ShardGlow1
+11846119288	pe_shard_spark_sheet_white	PE	4	Grid4x4	OneShot	1	0		Effects/Characters	11.n
+107845853952089	pe_shard_sparks_sheet	PE	13	Grid4x4	OneShot	1	0		Down,Up,arrow	4
+18236638593	pe_shard_torn_streak	PE	1	None	OneShot	41.1	0.6499999761581421		Dash	Shard
+97772253824215	pe_shards_thin_impact	PE	1	Custom	OneShot	16	0		lightning stuff/yareyaredaze	Shards thin impact
+98161445784635	pe_shiney_ring_sheet	PE	1	Grid4x4	OneShot	1	0.800000011920929		lightning stuff/AwaLightning	Images/shiney (1)
+17613747219	pe_shockwave_ring_soft	PE	3	None	Loop	1	1		Dash,Startup	Shockwave
+79224187746064	pe_shockwave_thing_impact_sheet	PE	1	Grid4x4	OneShot	1	0.30000001192092896		lightning stuff/AwaLightning	shockwavething_impact1
+6897736795	pe_sideways_spec_needle	PE	2	None	OneShot	4	0		ShapeAndValue2	Sideways Spec 4
+99621248183954	pe_simple_glowing_star	PE	2	None	Loop	1	1		WaterPractice	simple glowing star
+17511015942	pe_slash_vertical_blackbg	PE	2	None	OneShot	32	10		Down,Up	Slash
+127680365593894	pe_slit_eye_glow	PE	7	None	OneShot	1	-1		Effects/Characters	Fire
+71174473329086	pe_small_dot_glow	PE	2	None	Loop	1	0		lightning stuff/Lightning Drop	Small Dot 1
+88848729824097	pe_small_ember_specs	PE	4	None	OneShot	16	0		ShapeAndValuePractice	small ember specs
+128359183943269	pe_small_lightning_le	PE	1	Custom	OneShot	16	0		lightning stuff/Lightning Drop	Small Lightning LE
+18875491083	pe_smoke16_puff_sheet	PE	2	Grid4x4	Loop	2.3	0.10000000149011612		lightning stuff/AwaLightning	Smoke (16) | Texture
+92256100738715	pe_smoke1_puff	PE	3	None	Loop	3.7	0.15000000596046448		Dash,Down,Up	smoke1
+104230419396721	pe_smoke2_puff_sheet	PE	1	Grid4x4	OneShot	1	-0.5		lightning stuff/AwaLightning	Smoke2
+18245525527	pe_smoke4_sheet	PE	1	Grid4x4	Loop	23	0.10000000149011612		lightning stuff/AwaLightning	Smoke (4)
+14050533905	pe_smoke_basic_2x2	PE	4	Grid2x2	OneShot	1	0.550000011920929		Wind/Smoke OS	Basic 2x2
+15415212938	pe_smoke_billow_sheet	PE	2	Grid4x4	OneShot	1	0.5		Effects/Blood	Billowing
+83789260617467	pe_smoke_blob_sheet_k	PE	5	Grid4x4	OneShot	0.4	0		lightning stuff/LightningAura	2
+81374557463573	pe_smoke_burst6_sheet	PE	1	Grid4x4	OneShot	1	0.6000000238418579		lightning stuff/AwaLightning	SmokeBurst_6
+127602127470983	pe_smoke_circle_overlay_sheet	PE	1	Grid4x4	OneShot	1	-0.5		arrow	Moving Smoke Circle Overlay
+139445984471521	pe_smoke_circle_rings_sheet	PE	1	Custom	OneShot	16	0		WaterPractice	Smoke circle 5
+7216851093	pe_smoke_cloud_dense	PE	7	None	Loop	1	0.07500000298023224		Effects/Characters,Effects/Smoke	New | SmokeDiscDistRealistic
+137164889693869	pe_smoke_cloud_sheet_h	PE	5	Grid4x4	OneShot	0.4	0		lightning stuff/LightningAura	2
+116535655897049	pe_smoke_cloud_soft	PE	3	None	OneShot	1	0.4000000059604645		Dash,Down,Up	Smoke
+7216851605	pe_smoke_cloud_soft_b	PE	7	None	Loop	1	0.10000000149011612		Effects/Parts,Effects/Smoke	NormalSmoke | Smoke
+123222063411335	pe_smoke_cloud_soft_c	PE	5	None	OneShot	0.3	0		lightning stuff/LightningAura	2
+624634365	pe_smoke_effect_png	PE	2	None	OneShot	16	0		VFX1,VFX2	Images/Smoke-Effect-Free-PNG-Image
+12441202218	pe_smoke_flipbook_8x8	PE	1	Grid8x8	OneShot	1	1		lightning stuff/AwaLightning	Images/SmokeFlipbook (2)
+13975873083	pe_smoke_grey_2x2	PE	8	Grid2x2	OneShot	1	0.550000011920929		Wind/Smoke OS	2x2 Smoke Grey
+99243995635638	pe_smoke_ground_cloud	PE	3	None	Loop	0.6	0		Dash,Down,Up	SmokeGround
+137295701340532	pe_smoke_loop_sheet_3	PE	1	Grid4x4	OneShot	23	0.5		lightning stuff/AwaLightning	SmokeLoop_3
+100946306554914	pe_smoke_loop_sheet_4	PE	1	Grid4x4	Loop	23	0.6000000238418579		lightning stuff/AwaLightning	SmokeLoop_4
+103726326474743	pe_smoke_puff_cloud_f	PE	5	None	OneShot	0.3	0		lightning stuff/LightningAura	2
+16169821380	pe_smoke_puff_cloud_sheet_i	PE	1	Grid4x4	OneShot	3.6	0.4000000059604645		lightning stuff/AwaLightning	Images/image_00000
+125085407527682	pe_smoke_puff_sheet	PE	3	Grid4x4	OneShot	1	-0.30000001192092896		Dash,Down,Up	Smoke
+73007640829815	pe_smoke_puff_sheet_dark	PE	1	Grid4x4	OneShot	2.6	-1		Effects/Characters	Fire2
+115506914345580	pe_smoke_puff_sheet_g	PE	10	Grid4x4	OneShot	0.3	0		lightning stuff/LightningAura	2
+123423018485912	pe_smoke_puff_sheet_grey	PE	1	Grid4x4	OneShot	1	-1		Effects/Characters	ParticleEmitter
+70613108628639	pe_smoke_puff_sheet_j	PE	5	Grid4x4	OneShot	0.4	0		lightning stuff/LightningAura	2
+129473903509636	pe_smoke_ring_burst_soft	PE	2	None	OneShot	1	0.699999988079071		lightning stuff/AwaLightning	Texture
+9146886834	pe_smoke_sheet_8x8_faint	PE	1	Grid8x8	OneShot	1	0		lightning stuff/AwaLightning	Smoke
+86220335712753	pe_smoke_streak_sheet	PE	5	Grid4x4	OneShot	0.4	0		lightning stuff/LightningAura	2
+92739826225814	pe_smoke_swirl_sheet	PE	1	Grid4x4	OneShot	1	1		Effects/Characters	smoke3
+118726955290846	pe_smoke_wind_streak	PE	3	None	OneShot	1	-0.5		Dash,Down,Up	SmokeWind
+107420715710066	pe_smoke_wisp_faint	PE	38	None	OneShot	1	0		Down,Up,spin 	2
+13401773376	pe_smoke_wisp_soft_b	PE	2	None	OneShot	16	0		lightning stuff/Lightning Drop	Transparenct Blast 4
+16511071584	pe_snowfall_sheet_8x8	PE	8	Grid8x8	Loop	1	1		arrow	Snowfall
+99457144599783	pe_soft_glow_dot_b	PE	10	None	Loop	1	0		StarStruck	ParticleEmitter2
+127816126678833	pe_spark_bits_sheet	PE	15	Grid4x4	OneShot	1.9	-1		Down,Up,arrow	Extra
+85882181888047	pe_spark_bits_sheet_c	PE	5	Grid4x4	OneShot	0.4	0		lightning stuff/LightningAura	2
+15502818840	pe_spark_effect_sheet	PE	2	Grid4x4	OneShot	30	-1		arrow	Effect
+72407258329692	pe_spark_faint	PE	5	None	Loop	1	0		lightning stuff/LightningAura	Spark
+11846336638	pe_spark_flake_sheet	PE	2	Grid4x4	OneShot	1	0.4000000059604645		Effects/Characters	Smoke | SmokeDiscDist
+129410317024549	pe_spark_flake_sheet_b	PE	1	Grid4x4	OneShot	1	0.44999998807907104		Effects/Characters	fire3
+101995042384072	pe_spark_flakes_sheet	PE	2	Grid4x4	OneShot	4.2	1		arrow	R Impact
+16002249604	pe_spark_needle	PE	13	None	Loop	1	0.5		StarStruck,Startup,arrow	Sparks
+16847071704	pe_spark_sheet_misc	PE	15	Grid4x4	OneShot	1	0		Down,Up,arrow	ParticleEmitter
+71585360308961	pe_spark_star_sheet_c	PE	1	Grid4x4	OneShot	1	1		Effects/Characters	psycho2
+17062454177	pe_spark_stars_4point	PE	5	None	Loop	2	1		lightning stuff/LightningAura	SparkStars
+14364640501	pe_spark_streak_sheet	PE	2	Grid4x4	OneShot	1	-1		arrow	Sparks3
+17847780390	pe_spark_streak_sheet_b	PE	5	Grid4x4	OneShot	1	0		Effects/Characters	11.n
+14005903992	pe_spark_streak_sheet_c	PE	1	Grid4x4	OneShot	1	0		lightning stuff/AwaLightning	ParticleEmitter
+95204875703666	pe_spark_streak_sheet_d	PE	1	Grid4x4	OneShot	2	0		lightning stuff/AwaLightning	ParticleEmitter
+135336871909366	pe_spark_vortex_sheet	PE	1	Grid4x4	OneShot	1	0		arrow	Spark Vortex
+17826438728	pe_spec_crescent_sheet	PE	14	Grid4x4	OneShot	2.2	0		Down,StarStruck,Startup,Up,arrow	Spec
+16878181512	pe_spec_dot_hot	PE	8	None	OneShot	1	0		arrow	Spec1
+16878183760	pe_spec_glow_round	PE	8	None	Loop	1.7	1		arrow	Spec2
+9997556038	pe_specs_faint_b	PE	2	None	Loop	0	-1		lightning stuff/AwaLightning	Specs1
+12942158384	pe_specs_glow_corner	PE	3	None	Loop	2.1	0		lightning stuff/AwaLightning	Specs1
+17657522953	pe_speed_dash_sheet	PE	3	Grid4x4	OneShot	1	0		arrow	tp2 | tp4 | tp5
+73607860120690	pe_speed_lines_sheet	PE	8	Custom	OneShot	16	0		ShapeAndValue2,ShapeAndValuePractice	Speed lines
+92756777074741	pe_speedline_burst_vertical	PE	4	None	Loop	1	0		Dash,arrow	MainSpeedline | SpeedlineContrast
+12800351319	pe_spiked_spec_lightning	PE	1	Custom	OneShot	4	0		MeshFlipSUCCESS	Spiked Spec
+109493425939436	pe_spikes_burst_sheet	PE	6	Grid4x4	OneShot	1	-0.5		lightning stuff/AwaLightning	spikes_iV2
+112750912410840	pe_spikes_up_sheet	PE	3	Grid4x4	OneShot	0.9	0		lightning stuff/AwaLightning	SpikesUp_2
+13802408466	pe_spinning_petal_sheet	PE	26	Custom	OneShot	16	0		spin 	Spinning Petal
+98762333116575	pe_spinning_triangle_sheet	PE	1	Custom	OneShot	64	-10		MeshFlipSUCCESS	spinning triangle 2
+118331182227573	pe_spiral_swirl_thin	PE	10	None	Loop	1	1		StarStruck	Simple Stylized Swirl
+108655679617179	pe_square_bracket_sheet	PE	1	Grid4x4	OneShot	1	-1		arrow	yaversu
+1861106267	pe_square_soft_white	PE	1	None	Loop	2.2	0		arrow	Emit
+91317851614358	pe_square_spark_sheet	PE	3	Grid4x4	OneShot	1	0		Effects/Characters	Shockrea;l | shock
+129286822073195	pe_squashing_lightning	PE	1	Custom	OneShot	16	0		lightning stuff/Lightning Drop	Squashing lightnijng
+71310052599127	pe_star2_4point_bold	PE	1	None	Loop	1	0		lightning stuff/AwaLightning	Images/Star2
+17062451848	pe_star9_4point	PE	1	None	OneShot	16	0		lightning stuff/Lightning Drop	Star9
+17062416111	pe_star_4point_chromatic	PE	1	None	Loop	13.2	0		arrow	Star3
+10598374841	pe_star_4point_glint	PE	10	None	Loop	1	0.800000011920929		StarStruck	Impact1
+15753396972	pe_star_4point_sharp	PE	10	None	Loop	1	-2		Effects/Characters	Slash 3
+17062452122	pe_star_4point_small	PE	1	None	Loop	1	-15		Effects/Characters	 0.1
+107267981745321	pe_star_4point_thin_b	PE	1	None	Loop	2.1	-1		Effects/Characters	s
+115410496767080	pe_star_cross_sheet	PE	7	Grid4x4	OneShot	5.9	0		Effects/Characters	Circle | Fire2 | decay8
+10556525755	pe_star_flare_blackbg	PE	3	None	Loop	1	1		arrow	Flash
+12848555566	pe_star_glaze_thin	PE	1	None	Loop	0.6	0		arrow	Glaze
+79906089365084	pe_star_glint_sheet	PE	1	Grid4x4	OneShot	1	1		Effects/Characters	psycho6
+131311043057562	pe_star_glint_soft	PE	26	None	PingPong	0	1		spin 	Star
+100955378623032	pe_star_glint_thin	PE	4	None	OneShot	1	-1		BALLVFX,VFX1,VFX2	Images/image (2) (6)
+11037779500	pe_starburst_8point_bright	PE	10	None	Loop	1	0.800000011920929		StarStruck	Impact1
+18143597709	pe_starburst_sheet_blackbg	PE	4	Grid4x4	OneShot	1.8	1		Effects/Characters	impac
+85936785811122	pe_static_smoke_sheet	PE	1	None	OneShot	6.2	0.20000000298023224		lightning stuff/AwaLightning	Images/staticSmoke4_00000
+12921172449	pe_streak_burst_vertical	PE	4	None	Loop	3	0		arrow	tp3 | tp6 | tp7 | tp8
+101255726840263	pe_streak_column_soft	PE	2	None	OneShot	2.5	0		Effects/Characters	d
+78245442148202	pe_streak_fan_vertical	PE	4	None	Loop	1	-1		Effects/Characters	6
+98047670375459	pe_style_smoke25_sheet	PE	8	Grid4x4	OneShot	1	0.20000000298023224		Wind/Smoke OS	Style Smoke 25
+97130732091369	pe_stylized_energy_sheet_8x8	PE	14	Grid8x8	OneShot	0.8	0		ShapeAndValuePractice,StarStruck	ENERGYYY | Stylizedenergy1
+85858177391804	pe_stylized_leaf	PE	1	None	OneShot	1	0		VFX1	stylized leaf 1
+16924719592	pe_stylized_smoke37_flat	PE	4	Custom	OneShot	16	0		ShapeAndValuePractice	Stylized Smoke37
+16867479408	pe_stylized_smoke51_sheet	PE	4	Custom	OneShot	16	0		ShapeAndValuePractice	Stylized Smoke51 fading
+16867522149	pe_stylized_smoke59_sheet	PE	2	Custom	OneShot	16	1		VFX1,VFX2	Stylized Smoke59 fading
+11827618350	pe_stylized_smoke_sheet	PE	8	Grid4x4	OneShot	1	0.20000000298023224		Wind/Smoke OS	Stylized Smoke33 fading
+14197156344	pe_sudden_lightning_8x8	PE	1	Custom	OneShot	64	0		lightning stuff/Lightning Drop	Sudden lightning 8x8
+86370624313770	pe_swirl_crescent_soft	PE	1	Grid4x4	OneShot	1	1		Effects/Characters	shockwave9
+125315542080455	pe_swirl_crescents	PE	10	None	Loop	1	1		StarStruck	Swirls15
+11336976466	pe_swirl_flame_sheet	PE	1	Grid4x4	OneShot	1	0.25		arrow	lines
+115277291970389	pe_swirl_ring_wispy_b	PE	2	None	Loop	2.5	1		Effects/Characters	impac
+138923760615400	pe_swirl_sheet_8x8	PE	1	Grid8x8	OneShot	1	0		arrow	Swirls14
+92949373282527	pe_swirl_vortex_soft	PE	3	None	Loop	0.4	1		Effects/Characters	WindRealNONLOCKED | shock
+11867375448	pe_tall_realistic_smoke_sheet	PE	5	Custom	OneShot	16	0		ShapeAndValue2	Tall Realistic Smoke
+13452273491	pe_texture_burst_sheet	PE	1	Grid4x4	OneShot	1	-1		lightning stuff/AwaLightning	Images/GroundFlipbook1
+12906276200	pe_thin_realistic_shockwave	PE	1	Custom	OneShot	16	0.10000000149011612		lightning stuff/yareyaredaze	Thin realistic shockwave
+15014002418	pe_thin_ring_expanding_sheet	PE	1	Grid4x4	OneShot	1	0		arrow	Thin blurred expanding
+13013256540	pe_tiny_bits_sheet	PE	4	Grid4x4	OneShot	1	-2		Effects/Characters	ParticleEmitter
+11981602540	pe_tiny_dot_burst_sheet_8x8	PE	2	Grid8x8	OneShot	1	1		arrow	ParticleEmitter
+16857822821	pe_tiny_dot_sheet_dense	PE	1	Grid8x8	OneShot	0.2	0		Effects/Smoke	Dust1
+113297314814130	pe_tiny_spark_sheet_dense	PE	4	Custom	OneShot	64	0		ShapeAndValuePractice	glowing abstract matrix spec
+96566003778336	pe_tp1_streak_lines	PE	1	None	Loop	1	0		arrow	tp1
+13405807158	pe_transparent_blast4_crescents	PE	1	Grid4x4	OneShot	1	0.8999999761581421		lightning stuff/AwaLightning	Images/texture (1) (1)
+15846370432	pe_transparent_blast_1	PE	12	None	Loop	1	0.3499999940395355		StarStruck,Wind/Smoke OS	Transparenct Blast 1
+15846427306	pe_transparent_blast_2	PE	2	None	Loop	1	1		Wind/Smoke OS	Transparenct Blast 2
+15824417274	pe_transparent_blast_5	PE	3	None	Loop	1	1		Wind/Smoke OS	Transparenct Blast 5
+13959942757	pe_transparent_blast_soft	PE	2	None	Loop	1	1		Wind/Smoke OS	Transparenct Blast 3
+70685370455207	pe_transparent_blast_wispy	PE	3	None	Loop	1	1		Wind/Smoke OS	Transparenct Blast 5
+9163249315	pe_transparent_shockwave_ring	PE	1	None	OneShot	16	0		lightning stuff/Lightning Drop	Transparent Shockwave
+16865899680	pe_water10_sheet	PE	2	Custom	OneShot	16	0		BALLVFX,VFX2	Water10
+16865902191	pe_water11_sheet	PE	1	Custom	OneShot	16	0		WaterPractice	Water11
+16866055035	pe_water27_ring_sheet	PE	1	Custom	OneShot	64	0		WaterPractice	Water27
+16866193510	pe_water39_sheet	PE	1	Custom	OneShot	16	0		WaterPractice	Water39
+16866200449	pe_water44_droplet_sheet	PE	1	Custom	OneShot	16	0		WaterPractice	Water44
+16865854535	pe_water7_sheet	PE	1	Custom	OneShot	16	0		WaterPractice	Water7
+95270010685394	pe_water_blob_8x8	PE	1	Custom	OneShot	64	0		WaterPractice	Water Blob 8x8
+79998832137235	pe_water_drop_sheet_15011456461	PE	3	Grid4x4	OneShot	1	0		BALLVFX,VFX1,VFX2	Images/15011456461
+118811675581971	pe_water_droplet_sheet_b	PE	4	Grid4x4	OneShot	1	0		BALLVFX,VFX1,VFX2	Images/Sprite_012 (1)
+16877839414	pe_water_ring_sheet_42	PE	2	Grid4x4	OneShot	1	0		BALLVFX,VFX2	Images/42
+12689536456	pe_water_ring_splash_sheet	PE	3	Grid4x4	OneShot	1	0		BALLVFX,VFX2	Images/DONE
+129550154917593	pe_water_splash_ring_sheet	PE	1	Grid4x4	OneShot	1	0		VFX1	Images/water_2
+12110213243	pe_water_splash_sheet_cyan_colored	PE	2	Grid4x4	OneShot	1	0		Effects/Characters	ParticleEmitter
+95364728062846	pe_water_splatter_sheet	PE	1	Custom	OneShot	16	0		WaterPractice	Water Splatter2
+123266658426840	pe_water_wave_blur_8x8	PE	4	Custom	OneShot	64	-10		MeshFlipSUCCESS,WaterPractice	Erica Water Wave Blur 8x8
+17510992903	pe_waterflipbook_8x8	PE	2	Grid8x8	OneShot	16	0		BALLVFX,VFX2	Images/waterflipbook
+14393243408	pe_wave_splatter_sheet	PE	2	Grid4x4	OneShot	5	1		Effects/Characters	Wave | WaveFace
+12062501141	pe_white_flake_puff_sheet	PE	2	Grid4x4	OneShot	1	-1		arrow	[6]
+13780092154	pe_wide_burst_sheet	PE	1	Custom	OneShot	16	0.10000000149011612		lightning stuff/yareyaredaze	Wide Burst
+14004161351	pe_wiggly_ball_blobs	PE	4	Custom	OneShot	16	0		ShapeAndValuePractice	Wiggly Ball
+92824085650493	pe_wind43_ring_crescent	PE	2	None	Loop	1	0		lightning stuff/Lightning Drop	Wind43
+79454007816524	pe_wind44_crescent	PE	3	None	Loop	1	1		Wind/Smoke OS	Wind44
+102374151967894	pe_wind_crescent_double	PE	3	None	Loop	1	1		Wind/Smoke OS	Wind5
+10859315454	pe_wind_crescent_ring	PE	36	None	Loop	0.7	1		Dash,StarStruck,Startup	2 | winds
+15380148205	pe_wind_crescent_slash	PE	20	None	Loop	1	1		StarStruck	Wind
+137596045221383	pe_wind_crescent_soft	PE	3	None	Loop	1	1		Wind/Smoke OS	Wind24
+18326080169	pe_wind_impact2_sheet	PE	1	Grid4x4	OneShot	1	0.4000000059604645		lightning stuff/AwaLightning	Images/WindImpact2
+17409991165	pe_wind_ring_broken_dark	PE	23	None	Loop	1	1		Dash,StarStruck,Startup	best wind | winds
+11820076505	pe_wind_ring_stylized	PE	17	None	Loop	0.5	1		Dash,ShapeAndValuePractice,StarStruck,Startup	StylizedWind1 | winds
+10149702982	pe_wind_ring_wispy	PE	13	None	Loop	0.5	1		Dash,StarStruck,Startup	winds
+14569425079	pe_wind_rings_sheet	PE	8	Grid4x4	OneShot	1	1		arrow	WindRings
+109440284900004	pe_wind_swirl_sheet	PE	28	Grid4x4	OneShot	0.5	1		Dash,Down,StarStruck,Startup,Up	ParticleEmitter | winds
+88867995909352	pe_winds_crescent_sheet	PE	3	Grid4x4	OneShot	11.7	0		Dash,Startup	winds
+74947102768129	trail_cutout_blob	Trail	1						Effects/Characters	B1
+9234319472	trail_dark_with_streaks	Trail	4						Effects/Parts	MovementTrail
+75301249324689	trail_double_edge_lines	Trail	1						Effects/Characters	OuterLinesB
+118758348149908	trail_ink_splat_slash	Trail	7						arrow	Beam Slash
+132592993711073	trail_leaf_blade_white	Trail	5						arrow	Beam Slash
+125603075630254	trail_marbled_ink	Trail	2						WaterPractice	Beam114
+8187305308	trail_noise_web	Trail	2						BALLVFX,VFX2	Trail
+139821329632115	trail_smoke_curl	Trail	1						Effects/Characters	Black2
+15398097961	trail_soft_cloud_strip	Trail	2						Startup,spin 	Trail
+12251461261	trail_soft_smoke_strip	Trail	2						Startup,spin 	Trail
+12533057255	trail_solid_white_drip	Trail	1						Effects/Characters	Trail
+6203493685	trail_solid_white_jagged	Trail	2						ShapeAndValuePractice	BeamSideways Trail 2
+103713275042202	trail_streak_fade_left	Trail	1						Effects/Characters	OuterLines
+122398673440825	trail_streak_fade_left_b	Trail	1						Effects/Characters	BlueMiddle
+14543379496	trail_streak_fringe_bottom	Trail	2						ShapeAndValuePractice	BeamStretched Wave
+9035801067	trail_streak_fringe_top	Trail	2						Startup,spin 	Trail
+106729630607723	trail_swirl_smoke_soft	Trail	1						ShapeAndValue2	Beam59
+117279634857355	trail_torn_smoke_blob	Trail	1						Effects/Characters	BlackAccent
